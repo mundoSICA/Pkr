@@ -5,9 +5,13 @@
  *
  * Requiere Composer
  *
- * Alias Configuración:
+ * System Alias configuration(~/.bashrc recommended):
+	alias pkr='/absolute_path/.../pkr/pkr.php'
+ *
+ * 
+ * Git Alias configuration(.git/config):
  * [alias]
-		pkr = !/home/fitorec/codes/system/packer/pkr.php
+ * 		pkr=!php /absolute_path/.../pkr/pkr.php
  */
 
 $path = realpath(dirname(__FILE__));
