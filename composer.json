@@ -1,0 +1,18 @@
+{
+    "name": "mundosica/pkr",
+    "description": "Un sistema empaquetador para css, javascript, less y sass",
+    "require": {
+        "natxet/CssMin": "^3.0",
+        "linkorb/jsmin-php": "^1.0"
+    },
+    "license": "GNU/GPL",
+    "authors": [
+        {
+            "name": "Fitorec",
+            "email": "chanerec@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "libs"
+    }
+}
