@@ -1,5 +1,4 @@
-# A simply minifier packer
-
+# A simple minifier & packer for Javascript and CSS
 
 ### Support:
 
@@ -16,7 +15,7 @@ Download project and install dependencies:
 
 	composer install
 
-add alias in `~/.bashrc`:
+add alias system in `~/.bashrc`:
 
 	alias pkr='/absolute_path/.../pkr/pkr.php'
 
