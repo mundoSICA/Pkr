@@ -1,6 +1,6 @@
 {
     "name": "mundosica/pkr",
-    "description": "Un sistema empaquetador para css, javascript, less y sass",
+    "description": "CSS & JavaScript minifier with PHP",
     "version": "v1.0.0alpha",
     "require": {
         "natxet/CssMin": "^3.0",
